@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year PhD student at the School of Artificial Intelligence, Xidian University, supervised by [Jie Feng (冯婕)](https://web.xidian.edu.cn/fengjie/). If you are interested in any potential collaboration, please feel free to contact me via email ld990425@163.com. I graduated from the School of Computer, Electronics and Information, GuangXi University (广西大学计算机与电子信息学院) with a bachelor’s degree and from the School of Telecommunications Engineering, Xidian University (西安电子科技大学通信工程学院), advised by [Jianchao Du (杜建超)](https://web.xidian.edu.cn/jcdu/).
+I am currently a first-year PhD student at the School of Artificial Intelligence, Xidian University, supervised by [Jie Feng (冯婕)](https://web.xidian.edu.cn/fengjie/). If you are interested in any potential collaboration, please feel free to contact me via email at ld990425@163.com.
+
+I graduated from the School of Computer, Electronics and Information, GuangXi University (广西大学计算机与电子信息学院) with a bachelor’s degree and from the School of Telecommunications Engineering, Xidian University (西安电子科技大学通信工程学院), advised by [Jianchao Du (杜建超)](https://web.xidian.edu.cn/jcdu/).
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
