@@ -25,7 +25,7 @@ My research interest includes computer vision and LLMs. If you are interested in
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by ASOC.
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ASOC.
 
 # 📝 Publications 
 
@@ -35,8 +35,7 @@ My research interest includes computer vision and LLMs. If you are interested in
 [Multi-unit stacked architecture: An urban scene segmentation network based on UNet and ShuffleNetv2](https://www.sciencedirect.com/science/article/abs/pii/S1568494624008391) \\
 **Dian Liu**, Jianchao Du, Chuhan Li, Chenglong Yu, Mingjin Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/425her0/MSA-Net)
 </div>
 </div>
 
