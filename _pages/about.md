@@ -23,7 +23,7 @@ I graduated from the School of Computer, Electronics and Information, GuangXi Un
 
 My research interest includes computer vision and large language models. I have published one paper. If you are interested in any potential collaboration, please feel free to contact me via email at ld990425@163.com.
 
-<strong><span id='total_cit'>260000+</span></strong></a>
+<a href='https://scholar.google.com/citations?user=fhwtLWAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ASOC.
