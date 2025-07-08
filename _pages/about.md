@@ -21,9 +21,9 @@ I am currently a first-year PhD student at the School of Artificial Intelligence
 
 I graduated from the School of Computer, Electronics and Information, GuangXi University (广西大学计算机与电子信息学院) with a bachelor’s degree and from the School of Telecommunications Engineering, Xidian University (西安电子科技大学通信工程学院) with a master’s degree, advised by [Jianchao Du (杜建超)](https://web.xidian.edu.cn/jcdu/).
 
-My research interest includes computer vision and large language models. If you are interested in any potential collaboration, please feel free to contact me via email at ld990425@163.com.
+My research interest includes computer vision and large language models. I have published one paper. If you are interested in any potential collaboration, please feel free to contact me via email at ld990425@163.com.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=fhwtLWAAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=fhwtLWAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<strong><span id='total_cit'>260000+</span></strong></a>
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ASOC.
@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 [Multi-unit stacked architecture: An urban scene segmentation network based on UNet and ShuffleNetv2](https://www.sciencedirect.com/science/article/abs/pii/S1568494624008391) \\
 **Dian Liu**, Jianchao Du, Chuhan Li, Chenglong Yu, Mingjin Zhang
 
-[**Code**](https://github.com/425her0/MSA-Net) <span class='show_paper_citations' data='fhwtLWAAAAAJ:u5HHmVD_uO8C'></span>
+[**Code**](https://github.com/425her0/MSA-Net) <strong><span class='show_paper_citations' data='fhwtLWAAAAAJ:u5HHmVD_uO8C'></span></strong>
 </div>
 </div>
 
