@@ -22,9 +22,7 @@ I am currently a first-year PhD student at the School of Artificial Intelligence
 I graduated from the School of Computer, Electronics and Information, GuangXi University (广西大学计算机与电子信息学院) with a bachelor’s degree and from the School of Telecommunications Engineering, Xidian University (西安电子科技大学通信工程学院) with a master’s degree, advised by [Jianchao Du (杜建超)](https://web.xidian.edu.cn/jcdu/).
 
 My research interest includes computer vision and large language models. If you are interested in any potential collaboration, please feel free to contact me via email at dianliuxd@stu.xidian.edu.cn.
-
 <span id='total_cit' style="opacity: 0;">0</span>
-
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ASOC.
 
