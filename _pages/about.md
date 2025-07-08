@@ -34,7 +34,8 @@ My research interest includes computer vision and large language models. If you 
 [Multi-unit stacked architecture: An urban scene segmentation network based on UNet and ShuffleNetv2](https://www.sciencedirect.com/science/article/abs/pii/S1568494624008391) \\
 **Dian Liu**, Jianchao Du, Chuhan Li, Chenglong Yu, Mingjin Zhang
 
-[**Code**](https://github.com/425her0/MSA-Net) <strong><span class='show_paper_citations' data='fhwtLWAAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Code**](https://github.com/425her0/MSA-Net)
+<span class='show_paper_citations' data='fhwtLWAAAAAJ:u5HHmVD_uO8C'></span>
 </div>
 </div>
 
