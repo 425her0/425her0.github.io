@@ -23,7 +23,6 @@ I graduated from the School of Computer, Electronics and Information, GuangXi Un
 
 My research interest includes computer vision and large language models. If you are interested in any potential collaboration, please feel free to contact me via email at ld990425@163.com.
 
-
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ASOC.
 
@@ -35,21 +34,24 @@ My research interest includes computer vision and large language models. If you 
 [Multi-unit stacked architecture: An urban scene segmentation network based on UNet and ShuffleNetv2](https://www.sciencedirect.com/science/article/abs/pii/S1568494624008391) \\
 **Dian Liu**, Jianchao Du, Chuhan Li, Chenglong Yu, Mingjin Zhang
 
-[**Code**](https://github.com/425her0/MSA-Net)
+[**Code**](https://github.com/425her0/MSA-Net) <strong><span class='show_paper_citations' data='fhwtLWAAAAAJ:u5HHmVD_uO8C'></span></strong>
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12* University-level Outstanding Student
+- *2022.12* University-level Outstanding Student
+- *2021.07* Outstanding	Bachelor Graduate
+- *2020.12* National Encouragement Scholarship
+- *2019.12* National Encouragement Scholarship
+- *2019.12* University-level Outstanding Student
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.07*, Master, Xidian University, Xi'an.
+- *2017.09 - 2021.07*, Undergraduate, GuangXi University, Guangxi.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+To be updated...
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experience
+- *2024.07 - 2025.07*, China Information Communication Technologies Group Corporation (CICT), AI group, Xi'an.
