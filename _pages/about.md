@@ -38,7 +38,7 @@ My research interest includes computer vision and large language models. If you 
 </div>
 </div>
 
-# 🎖️Honors and Awards
+#🎖️Honors and Awards
 - *2023.12* University-level Outstanding Student
 - *2022.12* University-level Outstanding Student
 - *2021.07* Outstanding	Bachelor Graduate
