@@ -24,6 +24,7 @@ I graduated from the School of Computer, Electronics and Information, GuangXi Un
 My research interest includes computer vision and large language models. If you are interested in any potential collaboration, please feel free to contact me via email at dianliuxd@stu.xidian.edu.cn.
 <span id='total_cit' style="opacity: 0;">0</span>
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 I am honored to have been invited to serve as a reviewer for IEEE TGRS.
 - *2026.01*: &nbsp;🎉🎉 I am honored to have been invited to serve as a reviewer for IEEE Access.
 - *2025.09*: &nbsp;🎉🎉 I have been admitted to Xidian University as a PhD student!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ASOC.
